@@ -22,9 +22,9 @@ Both blocked and allowed transactions are considered resolved and are not visibl
 
 Instructions
 
-    Please don't spend more than 3 hours.
-    Please use NodeJS and React to implement this. Bonus points for using typescript, react native and graphql - but please only use these technologies if you are familiar with them and can complete the challenge within the time limit
-    Provide the solution source code as a link to the code repository - please provide invites to a private repo if you don't want it public
+- Please don't spend more than 3 hours.
+- Please use NodeJS and React to implement this. Bonus points for using typescript, react native and graphql - but please only use these technologies if you are familiar with them and can complete the challenge within the time limit
+- Provide the solution source code as a link to the code repository - please provide invites to a private repo if you don't want it public
 
 What we're looking for:
 
