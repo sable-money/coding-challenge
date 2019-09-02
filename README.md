@@ -14,8 +14,8 @@ We do not expect you to connect to a DB for this task, but instead please use an
 
 We need a way to allow and block transactions. The two buttons in the UI should do a call to your backend service in order to block the transaction or to allow it. You are free to implement this as you want.
 
-    Block: Means that the transaction should be marked as blocked
-    Allow: Means that the transaction is allowed
+- Block: Means that the transaction should be marked as blocked
+- Allow: Means that the transaction is allowed
     
 Both blocked and allowed transactions are considered resolved and are not visible to the fraud team
 
