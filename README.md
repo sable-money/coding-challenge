@@ -20,6 +20,21 @@ We need a way to allow and block transactions. The two buttons in the UI should 
 Both blocked and allowed transactions are considered resolved and are not visible to the fraud team
 
 
+Extra complex - to explain better:
+
+“On blocking a transaction, all transitive transactional relationships also get moved into review”
+
+transitive
+i.e. A->B->C if B gets blocked, C gets put into review
+
+So now we have two data structures
+
+TRANSACTIONS_TO_REVIEW
+
+REVIEWED_TRANSACTIONS
+
+The list of  transactions to review will dynamically change based upon previously blocked/accepted transactions (edite
+
 Instructions
 
 - Please don't spend more than 3 hours.
