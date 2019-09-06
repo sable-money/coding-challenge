@@ -17,7 +17,7 @@ We need a way to allow and block transactions. The two buttons in the UI should 
 - Block: Means that the transaction should be marked as blocked
 - Allow: Means that the transaction is allowed
     
-Both blocked and allowed transactions are considered resolved and are not visible to the fraud team
+Both blocked and allowed transactions are considered resolved and are not visible to the fraud team - this status should persist between refreshes (F5) of the frontend
 
 
 Instructions
