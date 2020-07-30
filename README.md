@@ -8,7 +8,7 @@ The challenge is to create a small full stack application for the fraud team tha
 
 The UI should look something like the below, suspicious transactions should be ordered from newest to oldest: 
 
-![Coding Challenge](https://i.imgur.com/DgyGC4L.png "UI")
+![Coding Challenge](https://i.imgur.com/x7gBW35.png "UI")
 
 We do not expect you to connect to a DB for this task, but instead please use an in-memory data structure on the backend (a simple JavaScript object is fine), and fill the appropriate fields in the wireframe
 
